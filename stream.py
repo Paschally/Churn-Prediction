@@ -1,5 +1,4 @@
 import streamlit as st
-import xgboost as xgb
 import pickle
 import numpy as np
 from sklearn.preprocessing import StandardScaler
